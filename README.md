@@ -1,1 +1,1 @@
-# kc3-2021-konan
+# Word2Vec用
