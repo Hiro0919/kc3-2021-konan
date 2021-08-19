@@ -1,1 +1,1 @@
-# Word2Vec用
+# kc32021-Word2Vec用
